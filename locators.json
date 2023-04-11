@@ -1,0 +1,79 @@
+{
+    "FavoriteAppINCIDENT": {
+        "screenshot": ".images\\favoriteappincident-screenshot.png",
+        "source": "http://ECM7104O:Valled22*%3B@100.126.20.133/maximo/ui/login",
+        "strategy": "id",
+        "type": "browser",
+        "value": "FavoriteApp_INCIDENT"
+    },
+    "FavoriteAppINCIDENT1": {
+        "screenshot": null,
+        "source": "http://ECM7104O:Valled22*%3B@100.126.20.133/maximo/ui/login",
+        "strategy": "id",
+        "type": "browser",
+        "value": "FavoriteApp_INCIDENT"
+    },
+    "Favoriteappsportletpc": {
+        "screenshot": ".images\\favoriteappsportletpc-screenshot.png",
+        "source": "http://ECM7104O:Valled22*%3B@100.126.20.133/maximo/ui/login",
+        "strategy": "css",
+        "type": "browser",
+        "value": ".favoriteappsportlet_pc"
+    },
+    "M1f7bb5c6co21": {
+        "screenshot": ".images\\m1f7bb5c6co21-screenshot.png",
+        "source": "http://100.126.20.133/maximo/ui/?event=loadapp&value=incident&uisessionid=1842&csrftoken=ik6e7bd3mhmc57ipa3r9ntaq8b",
+        "strategy": "id",
+        "type": "browser",
+        "value": "m1f7bb5c6-co2_1"
+    },
+    "M761db80bse": {
+        "screenshot": ".images\\m761db80bse-screenshot.png",
+        "source": "http://100.126.20.133/maximo/ui/?event=loadapp&value=incident&uisessionid=1885&csrftoken=tbv10mvg65kd1tmrogtif3bdr2",
+        "strategy": "id",
+        "type": "browser",
+        "value": "m761db80b-se"
+    },
+    "M8672e47ctb": {
+        "screenshot": ".images\\m8672e47ctb-screenshot.png",
+        "source": "http://100.126.20.133/maximo/ui/?event=loadapp&value=incident&uisessionid=1842&csrftoken=ik6e7bd3mhmc57ipa3r9ntaq8b",
+        "strategy": "id",
+        "type": "browser",
+        "value": "m8672e47c-tb"
+    },
+    "Portletbody719760": {
+        "screenshot": ".images\\portletbody719760-screenshot.png",
+        "source": "http://ECM7104O:Valled22*%3B@100.126.20.133/maximo/ui/login",
+        "strategy": "id",
+        "type": "browser",
+        "value": "portletbody_719760"
+    },
+    "ToolactionsINSERTtbbanchor": {
+        "screenshot": ".images\\toolactionsinserttbbanchor-screenshot.png",
+        "source": "http://100.126.20.133/maximo/ui/?event=loadapp&value=incident&uisessionid=1869&csrftoken=q7616dm4cdcslhkkfdafiqslh4",
+        "strategy": "id",
+        "type": "browser",
+        "value": "toolactions_INSERT-tbb_anchor"
+    },
+    "ToolactionsINSERTtbbimage": {
+        "screenshot": ".images\\toolactionsinserttbbimage-screenshot.png",
+        "source": "http://100.126.20.133/maximo/ui/?event=loadapp&value=incident&uisessionid=1874&csrftoken=nstoe18f9vm0ug60e3rg43i7ta",
+        "strategy": "id",
+        "type": "browser",
+        "value": "toolactions_INSERT-tbb_image"
+    },
+    "ToolactionsINSERTtbbimage2": {
+        "screenshot": null,
+        "source": "http://100.126.20.133/maximo/ui/?event=loadapp&value=incident&uisessionid=1933&csrftoken=9pk1nsg8lhm57hnd2v8jbmkv3b",
+        "strategy": "id",
+        "type": "browser",
+        "value": "toolactions_INSERT-tbb_image"
+    },
+    "ToolactionsINSERTtbbimage3": {
+        "screenshot": null,
+        "source": "http://100.126.20.133/maximo/ui/?event=loadapp&value=incident&uisessionid=1833&csrftoken=boba0dpuobl4g92mdjkh9b2rc7",
+        "strategy": "id",
+        "type": "browser",
+        "value": "toolactions_INSERT-tbb_image"
+    }
+}

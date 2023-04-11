@@ -1,0 +1,11 @@
+tasks:
+  Maximoprueba1:
+    robotTaskName: Maximoprueba1
+condaConfigFile: conda.yaml
+ignoreFiles:
+- .gitignore
+artifactsDir: output
+PATH:
+- .
+PYTHONPATH:
+- .
